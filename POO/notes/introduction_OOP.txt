@@ -1,0 +1,5 @@
+So, the objetct of this file is just resume the thing that I take from books, about OOP or in Portuguese POO (Programming Objects Oriented) and I think it's agood ideia use this kind of notes to practice my grammar in English.
+
+Then, starting this section, I wanna talk about the problem that OOP was develop to solve, I mean, I never thought in this way, What type of problem this paradigm try to resolve or in other ways, what problems it resolve.
+
+In resume, the OOP is use to transform real objects in the life in a structure that a programming language can be represented in classes, functions and objects the exists in the classes.
